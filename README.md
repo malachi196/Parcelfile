@@ -23,7 +23,7 @@ __Parcelfile__ is good for
 These are the functions that are available in __parcelfile__
 #### wrap
 ``` py
-def wrap( type: None, spacing=true, *args ) -> str
+def wrap( type=None, spacing=true, *args ) -> str
 ```
 _wrap_ takes arguments and concatinates them.
 
