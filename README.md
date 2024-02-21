@@ -27,7 +27,7 @@ wrapped_text = wrap
 print(wrapped_text)
 ```
 \
-\
+
 ### Functions:
 These are the functions that are available in __parcelfile__
 #### wrap
