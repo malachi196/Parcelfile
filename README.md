@@ -2,7 +2,7 @@
 # parcelfile
 
 Welcome to the official Parcelfile python package. Parcelfile was made to "Properly Package Python Programs".
-
+Most parcelfile functions are under construction, so they __may not work__
 
 > __PARCEL__ stands for: 
 **P**ython 
@@ -18,8 +18,16 @@ __Parcelfile__ is good for
 + seperating file contents
  _and much more!_
 
+### Simple example
+This is a simple example of what parcelfile can do.
 
-### functions:
+```py
+from parcelfile import wrap
+wrapped_text = wrap
+print(wrapped_text)
+```
+
+### Functions:
 These are the functions that are available in __parcelfile__
 #### wrap
 ``` py
