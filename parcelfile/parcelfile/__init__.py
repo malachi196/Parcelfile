@@ -22,12 +22,12 @@ class colors:
 
 
 __all__ = (
-  ZIPPED,
-  STR,
-  INT,
-  BOOL,
-  FLOAT,
-  MULTI,
-  wrap,
-  box
+  'ZIPPED',
+  'STR',
+  'INT',
+  'BOOL',
+  'FLOAT',
+  'MULTI',
+  'wrap',
+  'box'
 )
