@@ -3,8 +3,6 @@ name = "parcelfile"
 
 version = "1.1.2"
 
-version = "1.1.2"
-
 authors = [
   { name="@malachi196", email="malachiaaronwilson@gmail.com" },
 ]
@@ -21,8 +19,6 @@ classifiers = [
 Homepage = "https://github.com/malachi196/Parcelfile"
 [tool.poetry]
 name = "parcelfile"
-
-version = "1.1.2"
 
 version = "1.1.2"
 
