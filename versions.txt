@@ -2,4 +2,4 @@
 1.0.7 ||| official stable release
 1.1.0 ||| major bug fixes: module functions tested and debugged
 1.1.1 ||| patched information
-1.1.2 (upcoming) ||| <available with upcoming update>
+1.1.2 (upcoming) ||| <patches available with upcoming update>
