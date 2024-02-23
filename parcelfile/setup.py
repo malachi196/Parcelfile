@@ -3,7 +3,7 @@ long_discription = open(r"README.md", 'r').read()
 
 setup(
     name=r'Parcelfile',
-    version=r'0.0.7',
+    version=r'1.1.2',
     description=r"Parcel does file command manipulation within python projects",
     long_description=long_discription,
     author=r'@malachi196',

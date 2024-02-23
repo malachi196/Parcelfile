@@ -36,7 +36,7 @@ def package(filenames,mode): # packages files
 def unpackage(filenames): # unpackages files
   print(f"unpackaged {filenames}")
   
-def wrap(type,spacing,*args): # wraps (concatinates) items
+def wrap(*args, type, spacing=True): # wraps (concatinates) items
   results = ""
   try:
     if type == STR: #str

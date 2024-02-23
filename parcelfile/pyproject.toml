@@ -1,6 +1,6 @@
 [project]
 name = "parcelfile"
-version = "0.0.7"
+version = "1.1.2"
 authors = [
   { name="@malachi196", email="malachiaaronwilson@gmail.com" },
 ]
@@ -17,14 +17,13 @@ classifiers = [
 Homepage = "https://github.com/malachi196/Parcelfile"
 [tool.poetry]
 name = "parcelfile"
-version = "0.0.8"
+version = "1.1.2"
 description = "Parcel does file command manipulation within python projects"
 authors = ["malachi196"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
 setuptools = "^69.1.0"
 
 
